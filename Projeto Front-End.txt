@@ -1,0 +1,99 @@
+Projeto Front-End:
+09.03.2023
+
+-pensei um projeto de rp( um sistema de gestao da empresa).
+
+vc consegue planejar os recursos da empresa, anotar e guardar asiformacoes em planilhas
+as vezes ten nais de un rp
+
+ - rp web que possa ter alguns epartamentos, como departamento comercial, ti e possar ter dashboards ter chamados, coisas que sejanm relevandtes para o operacao da empresa.
+
+P - Pergunta de grabiel:
+teria ais algum departamento esp=ecifico para ser feito ou mais cvoltado para os citados|:
+R - setores comercial, de operacao, engenharaia, abrange todas as partes, seguranca e infruasetruta de desnvolvimento de software, coloquei algumas regras de negocio, (basicamente tecnologia comercial e operação).
+
+P - Pergunta de Mateus
+O que que a empesa faz
+R - é uma startup no segmento de texchs, serve tecnologia para a industria, entrega solucoes tecnologicas para fabricas como desenvolvedores de prod quimicos, bebidas, trabalha no segmento de saneamento, transp ferroviario, o carro cheve é o sistema de monitoramento usando tec de intenrnet a=das coisas, usado para a tomada de decisao t=dos gestores de operacao "não é uma coisa facil adivinhas quando uma maquina, mootor da defeito ou algo da errado em lugares extremamente remotos, conseguimos fazer grafico de monitoramento, usando a tecnologia de internet das coisas".
+geralmente a gente oferece varios servicos, o carro chefe é como funciona a itecnologia vibracao temperatura, tudo dentro do escopo do sistema que a gente propos pra voecs fazerem. nçao faz parte do rp que está proposto, o rp é voltado para algo mais administrativo da empresa, um dashboard de vendas do produto para os consultores de venda, oara gerenciar os clientes, dashoard de op para saber os criente precisma de ajufa com os equipamentos que ja damos para eles, saber se os lientes precisam de ajuda 
+
+P - bernardo, pro front end vamos estar capturando os dados em tempo real para a manipulacao para maquinas que estejam funcionando mal
+R - voces nao precisam se preocupar com o produto que vendemos, essa parte de monitomram em tempo real () carro chefe  serve pra mostar como a empresa funciona, mas pro rp que é um sistema adm da empresa, não é oq fornce pro cliente mas usa intermatene pra trabalhar, nao vao se preocupar em montar graf de monti em tempo real, realmente é mais para monitorar quais sao os clientes, por exemplo, dashboard comercial vai ser quais os clientes estao interessaos e comprar , abriram um tipo de chamadao e abrir a mente de vocees para esse tp de chaao, o dashboard seria, o rp seria orentado para tics, um chamado de (interessado em comprar tal produto e quero uma proposta de vendam entao o comercial vai la e anexa a proposta do chamado e esse cliente vai ter que receber um chamado, ai finge que essa operacao em si e o cliente validou o atendimento, supomos que um consultor de vendas teve um problema no comp, abriu um chamado solicitando umm atendimaento, e esse chamado vai pra um tecnico especifoc e esse chamado vai ser validado pelo consultor de vencdas, os chaados podem ser abertos tanto pelos colaborades quanto pelos clientes externos).
+
+P - Cadastros de usuario
+R - podem ser ficticios os dados para a utiliczacao e criacao do sistema, nao precisam ser reais
+
+P -  
+R - pqp fudeu ---- a qd de chamdos abertos pra queke depti se eles estao pendentes para atend, se esato a=oausados, qts estao abertos, é interessante pro gestor verificar o fluxo d chamadas vao ser listados caso voc filtre para ver uma tabela,  seria interssante tambem por exempol vc pode colocar quantos chamados form finalizados naquele dia, seria interessante pro gestaor da eqp, ficaria com uma tela aberta por um bom tempo
+pra operacao funciona da ms froma, dashborards aprecidos, vao continuar pendetnes para eatendimanetos, esperoados, pausados e abertos, dif que esses chamados serao de cunho operacional, mesma coisa para o setor de tecnologia, mas como chamdos , pc quebrou, pfv crie um usuario novo para o setor comercial pq foi contratado um novo geerten, 
+
+P - problemas no atual e rp w como busca solucao
+R - a questao dos problemas do rp atual , é quanao sao orientados a chaaods e as pessoa tem ficuldadoes de guardar ibfos e logs entao fica la mas as dados mas nao trazem uma info conreta, entao o gestor nao olha o rp as operacoes e desce a escada para falar com o andar debaixo, se nao guardou o log e nao gerou info.
+
+P - acesso, 
+R - sim vai ter sistema de autenticacao, login cadatr () restrito somente para o de tecnologia, especialmente para o gerente s=do sitesma () só ele pode chamar ), os steroes nao podem ser visualidos oelo setor de operacao, o setor de tec nao tem necessidade de haver chamados no comercial da op mas por exempplo se ocorrrer algum bug durante o chamado, que passou pela mao do consultor primeiro, vao precisar verificar se acordo com a classificacao estimada se pode ser visualizada pelo comercial, pq una coisa é uma chamado interno, que nao pode, e quando é um chamado externo, pode sim ser visualizado por todos, mesmo que a eqp de tec , unm chamado externo pode ser visualizado por todos. parte de exclusao de usuarios, somente o gestor sistema pode fazer isso. se voces quiserem colocar ()um plus status de atendendo pausado esta sinalizado que esta esndo atentido
+
+P - quanto tempo um chamado pode ficar em aberto mesmo sendo de um cliente extreno.
+R - uma coisa que pode ser feita, que se chama SLA, a gente tende a ver ele como inimigo mas nao é , é um acordo a nivel de servico que ele da um prazo para que o chamado seja atendido de acordo com a cladsficacao dele, pode impo,etementar o sla dentro do rp de acordo, chanada emergencial (caiu o servidoir), se depois de 30 min nao for resolvido vai ser um chamado expirado, dentro do dabhpard , vai aparecer tanto no card de pendetners qunto do de expirados.
+
+P - orcamento e prazo
+R - 
+
+p - para o cliente fazer o chamado de algum prblema.
+r - voces podem criar uma tela de abertura de chaado que pode ser acessada tanto por pessoas sem autenticacao, ou por pessoas com autenticacao (se tiver) para fazer abertura de chamadas, sugerrasto
+
+p- tem alguma necessidade de
+r- nao tera integracao com  nenhum outro sistema da empresa, sera isolado para nao alterar a complexidade do projeto.
+
+p - ideia inicia sobre identidade visual 
+r - nao temos ideia inicial fixa, podem usar a criatividade para criar o design do sistema. nossa logo é azul, se voces quiserm criar uma paleta de cores que combine fiquem a vontade
+
+p - quala necessiade de criar um sistema para deficiente de visuais, crie cor para daltonicos ou algo do tipo 
+r - acessibiliade é to importante, defende que os sitesmas devem ter, mas pensando no escopo do projeto , acedsssibiliaded acessibiliade é pra deixar de lado, o prazo ver com os professores para ver a aceassibilidade.
+
+p - qual e o objetio prinipal do software e os recursos principais 
+r - objetivo que seja um rp web, pode ser classificado como um sistema de planejamento de resucrsos empressariais, melhorar a geestao dos rescursos daa enpresa, oferece uma visao macro, separado em dptos e modulos para que saeja, organizcao dos assuntos referentes a empresa
+r - existem varios tipos de rp no mercado, etem muios rps que focam em coisas especificas (toto) enoresa que cnsegues fazer rps pra tod tipo de segemento comercial, hotel, ponto de venda de mercado (pdv) pode ter rp financeiro (conta azul) uma boa sugestao para estudar sbore, tem uma gama de rps no mercado e sao muito espedificos para um proposito, tentou deixar o mais simples possilvel para nao aumentar a complexidade nem o prazo so projeto, quanto mais funcionalidade, maior o custoe prazo de entrega.
+
+p- banco de dados, vai poder disponiibilizar
+r- nao vai ser disponilbilizado nenhum bd, podem criar um banco de dados local, criar um modelo conforme as nomear as tabelas e colunas, nomes ficticios. aqui atuamlente estou usario maria db, como bd , vao precisar usar apache para servidor web, e a versao do banco 10.8.3
+
+p - desenvolver o app mobile, ou so desktop
+r - pode fazer simplesmente web para acessar no pc, acessar um tp de biblioteca para deixar resposivo pelo navegador mesmo, ai pode ser acessado pelo celular mesmo, vai ser desktop e nao tem necessidade de baixar app pelo celular
+ 
+p - queria sabe se as pssoas que fizeram chamados, vao sreceber uma resposta para os probemas que foram serolvidos, 
+r - precisa ser notificada toda vez que o analista estiver resolvendo e q o cliente esteja sendo atendida, os chamados podem ser reabertos
+
+p - akguma preferencia sobre tec usada
+r - receberao orientacoes referentes a arquitetura 
+
+p -  
+r - sim, geralmente quando a gente vai automatizar um processo a gente preisa ter uma coisa chamada bpmm, é a documentacao do processo atiual e o tobe que é como deveria ser ja com todas as melhorias do prijeto, nas besse prijeti nao sera dispolnibilizada.
+
+p - a gente vai criar um rp e crias os dashboards
+r - vao criar os dados ficticios e usar de forma de facil visualizacao num dashboard fonrt end
+p - o que gostaria de ver em cada setor
+r - chamados abertos expirados e pendenter
+p - quando o cliente abre o chamado qual info que precisa saber dele 
+r - nome, numero de telefone, email, titulo e n de chamado, qual dpto que esta querendo abri , se nao souber pode deixar em branco e tratamento do restante dos daso, odepto pode ser alterado se abriu no dpto aerrado. dependendo da calfissicao desse chamado
+p - como o cliente vai receber o retonro
+r - normalmente um cliente nao falaria isso, mas para fazer o envio por email teriam que fazer uma integracao com algum servidor de email, e isso deixaria muito complxo, entao vamos tentar manter tudo dentro da plataforma para que nao seja necessario algum tipo de integracao
+
+p - como agir caso o sistema fique sem comunicacao com a internet, e com as att de chamado
+r - o cliente nao daria aresposta nirmalmente, mas o servidor dificlmente fica fora do ar por conta da monitoramento constante da eqp de tec, caso esteja fora, nao sao vcs q vao dar, erro de codigo 500, se ele tentar acessar o site seminternet, o conteudo do site vai dar erro, mas se for por parte do servidor, provavelmente vai ser retornado um erro 500, mas eé mais coisa de back-end mesmo.
+r - numa plataforma web nao é possivel acontecer, se tiver fora do ar vc n consegue fazer absolutamente nada
+
+p - qual a expectativa de usuarios simultaneos no site
+r - nao vao ser muitas pessoas, no maximo 7 pessoas
+
+p - gostaria de ter alguma ferramenta de comunicacao alem de um chamado, algum chat para um a pergunta simples de ser respondida
+r - é interessante sim mas precisa se ater de quanto mais funcionalidades, o escopo sera chamado
+
+p - 
+r - tudo que a gente automatiza tem raiz em um processo manual, entao tem empresas que fazem tudo em planilha excel, que utiliza monday, pra ficar listando estas ativdades nos status delas, mas nenhuma com aderencia muito boa e acredita que nessa forma vai ser mais produtiva.
+
+p - precisa dashboard executivo
+r - a ideia é que todo dpto tenha seu dasbbhoard entao com afazeres, com chamados abertos, tiverem criatividade implementarem mais coisa com o desenvolvimento do projeto, oq eu seria legal colocar no dashboard comercial, mas tentem priorizar solicitadas plo escopo e nao mandar pela metade, precisam se planejar bem
+
+p - 
+r - como etamos retirando a pt de integracao com email DICA: criem os usuarios clientes dentro do sistema e classifiquem ekes pra saber , nao deve ter acesso a nada dentro da empresa. pra tirar a complexidade, criem um usuario do tipo ciente e que o dashboard sejam os chamados receber todos os retornos, vai ter roles, gerente comercial, gerente de operacao tecnologia, gerenciador do sistema, consultares de vendas, analista de operacao e tenologia.
