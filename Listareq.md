@@ -19,4 +19,5 @@
 - O sistema deve ter interface de usuário amigável e intuitiva para facilitar a navegação e uso do dashboard.
 - O usuário vê apenas o seu próximo chamado.
 - O sistema deve ter suporte ao usuário.
+- O sistema é single page onde se baseia em apenas em um documento.
 
