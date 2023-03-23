@@ -1,7 +1,7 @@
 # TUBARÃO DOENTE
 
 ## Missão
-- Criação de um Dashboard para chamados da empresa.
+- Criação de um Dashboard para chamados da empresa por parte dos clientes.
 ## Cliente
 - Empresa de área tecnológica destinada para área industrial.
 ## Requisitos Funcionais
@@ -12,6 +12,9 @@
 - O Sistema deve tem recursos de login para os usuários inserirem nome, número e email para contato, caso necessário.
 - O sitema deve Captura de dados em tempo real para manipulação de máquinas que estejam com mal funcionamento.
 - O sistema deve ter interface de usuário amigável e intuitiva para facilitar a navegação e uso do dashboard.
-- 
+- O sistema precisa ser web.
+
 ## Requisitos Não Funcionais
-- O sistema  deve estar funcionando 24 horas por dias 
+- O usuario deve ter acesso  ao sistema para fazer o chamado 24 horas 7 dias da semana 
+- O sistema deve ter interface de usuário amigável e intuitiva para facilitar a navegação e uso do dashboard.
+- O usuario ve apenas o seu proximo chamado.
