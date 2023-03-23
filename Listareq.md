@@ -1,7 +1,7 @@
 # TUBARÃO DOENTE
 
 ## Objetivo
-- Criação de um site para chamados da empresa.
+- Criação de um Dashboard para chamados da empresa.
 ## Cliente
 - Empresa de área tecnológica destinada para área industrial.
 ## Requisitos Funcionais
