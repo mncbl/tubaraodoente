@@ -15,6 +15,6 @@
 - O sistema precisa ser web.
 
 ## Requisitos Não Funcionais
-- O usuario deve ter acesso  ao sistema para fazer o chamado 24 horas 7 dias da semana 
+- O usuário deve ter acesso  ao sistema para fazer o chamado 24 horas 7 dias da semana 
 - O sistema deve ter interface de usuário amigável e intuitiva para facilitar a navegação e uso do dashboard.
-- O usuario ve apenas o seu proximo chamado.
+- O usuário ve apenas o seu proximo chamado.
