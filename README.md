@@ -7,3 +7,7 @@
 - Por quê?: O sistema servirá para facilitar a empresa de controlar tais informações, economizando tempo e os deixando mais organizados.
 - Como?: O sistema irá controlar a quantidade de chamados e os seus status (abertos, resolvidos, urgentes) e representar tais dados no Dashboard.
 - Quanto?: Esforço e dedicação do time.
+
+# Rascunho do Site:
+
+!(C:\Users\202301135737\Downloads\janelausuario.png)
