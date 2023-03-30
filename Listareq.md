@@ -21,4 +21,5 @@
 - O usuário vê apenas o seu próximo chamado.
 - O sistema deve ter suporte ao usuário.
 - O sistema deve ser eficiente 
-- O istema deve ter dois tipos de login : cliente  e de administrador .
+- O istema deve ter dois tipos de login : cliente  e de administrador . 
+- O  usuario que entrar como administrador deve  ver apenas a informação do seu  setor 
