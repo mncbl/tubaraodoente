@@ -11,3 +11,5 @@
 # Rascunho do Site:
 
 ![janelausuario](midias/janelausuario.png)
+
+![janelausuario](midias/janelafuncionario.png)
