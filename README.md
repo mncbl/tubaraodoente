@@ -16,3 +16,6 @@
 
 ## Janela para Funcionários Acompanharem os Chamados  
 ![janelafuncionarios](midias/janelafuncionarios.png)
+
+## Janela para Administradores Acompanharem Dashboard  
+![janelaadm](midias/janelaadm.png)
