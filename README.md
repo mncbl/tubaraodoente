@@ -44,7 +44,7 @@
 ![janelausuario](midias/janelausuario.png)
 - O Usuário deverá se registrar
 - Após se registar o Usuário deverá efetuar o login
-- Já logado, o Usuário poderá prencher as informações do chamados
+- Já logado, o Usuário poderá prencher as informações do chamado
 - Após preencher o Usuário deverá clicar para enviar e o chamado será enviado
 
 ## Janela para Funcionários Acompanharem os Chamados  
