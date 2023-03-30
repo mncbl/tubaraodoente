@@ -1,9 +1,9 @@
 # 5W2H
 
-- O quê?: Fazer um Dashboard para planejar e controlar os chamados da empresa.
+- O quê?: Fazer um sistema de planejamento e controle de chamados da empresa.
 - Quem?: Os usuários que desejarem abrir chamados, tanto clientes como trabalhadores da própria empresa.
 - Quando?: Projeto deverá ser finalizado junto com o primeiro semestre de 2023.
 - Onde?: O sistema deverá rodar em WEB, com porte para navegadores Desktop e Mobile.
 - Por quê?: O sistema servirá para facilitar a empresa de controlar tais informações, economizando tempo e os deixando mais organizados.
 - Como?: O sistema irá controlar a quantidade de chamados e os seus status (abertos, resolvidos, urgentes) e representar tais dados no Dashboard.
-- Quanto?: Sem Orçamento.
+- Quanto?: Esforço e dedicação do time.
