@@ -13,6 +13,9 @@
 - O sitema deve Captura de dados em tempo real para manipulação de máquinas que estejam com mal funcionamento.
 - O sistema deve ter interface de usuário amigável e intuitiva para facilitar a navegação e uso do dashboard.
 - O sistema precisa ser web.
+- O sistema deve controlar o acesso do usuario.
+- o sistema deve definir se os chamados estão abertos, resolvidos ou pendentes.
+- o sistema deverá ser capaz de operar em alta carga de chamados sem sair do ar.
 
 ## Requisitos Não Funcionais
 - O usuário deve ter acesso  ao sistema para fazer o chamado 24 horas 7 dias da semana 
