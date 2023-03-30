@@ -38,11 +38,14 @@
 - Como?: O sistema irá controlar a quantidade de chamados e os seus status (abertos, resolvidos, urgentes) e representar tais dados no Dashboard.
 - Quanto?: Esforço e dedicação do time.
 
-# Rascunho do Site:
+# Casos de Uso:
 
 ## Janela para Usuários Logarem e Enviarem os Chamados 
 ![janelausuario](midias/janelausuario.png)
-
+- O Usuário deverá se registrar
+- Após se registar o Usuário deverá efetuar o login
+- Já logado, o Usuário poderá prencher as informações do chamados
+- Após preencher o Usuário deverá clicar para enviar e o chamado será enviado
 
 ## Janela para Funcionários Acompanharem os Chamados  
 ![janelafuncionarios](midias/janelafuncionarios.png)
