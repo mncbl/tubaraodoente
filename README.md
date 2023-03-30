@@ -10,4 +10,4 @@
 
 # Rascunho do Site:
 
-!(C:\Users\202301135737\Downloads\janelausuario.png)
+!(tubaraodoente/midias/janelausuario.png)
