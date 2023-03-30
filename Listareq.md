@@ -14,10 +14,11 @@
 - O sistema deve ter interface de usuário amigável e intuitiva para facilitar a navegação e uso do dashboard.
 - O sistema precisa ser web.
 
+
 ## Requisitos Não Funcionais
 - O usuário deve ter acesso  ao sistema para fazer o chamado 24 horas 7 dias da semana 
 - O sistema deve ter interface de usuário amigável e intuitiva para facilitar a navegação e uso do dashboard.
 - O usuário vê apenas o seu próximo chamado.
 - O sistema deve ter suporte ao usuário.
-- O sistema é single page onde se baseia em apenas em um documento.
-
+- O sistema deve ser eficiente 
+- O istema deve ter dois tipos de login : cliente  e de administrador .
