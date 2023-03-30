@@ -16,6 +16,9 @@
 - O usuario que entrar como administrador deve  ver apenas a informação do seu  setor.
 - O usuario que entrar como adminstrador tera acesso ao  dashboard.
 - O usuario que entrar como parte do setor operacional tera acesso apenas ao chamados que esse setor.
+- O sistema deve controlar o acesso do usuario.
+- o sistema deve definir se os chamados estão abertos, resolvidos ou pendentes.
+- o sistema deverá ser capaz de operar em alta carga de chamados sem sair do ar.
 
 ## Requisitos Não Funcionais
 - O usuário deve ter acesso  ao sistema para fazer o chamado 24 horas 7 dias da semana 
