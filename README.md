@@ -1,3 +1,4 @@
+
 # TUBARÃO DOENTE
 
 ## Missão
@@ -45,3 +46,4 @@
 
 ## Janela para Administradores Acompanharem Dashboard  
 ![janelaadm](midias/janelaadm.png)
+
