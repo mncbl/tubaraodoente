@@ -12,4 +12,4 @@
 
 ![janelausuario](midias/janelausuario.png)
 
-![janelausuario](midias/janelafuncionario.png)
+![janelafuncionarios](midias/janelafuncionarios.png)
