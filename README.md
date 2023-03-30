@@ -10,6 +10,9 @@
 
 # Rascunho do Site:
 
+## Janela para Usuários Logarem e Enviarem os Chamados 
 ![janelausuario](midias/janelausuario.png)
 
+
+## Janela para Funcionários Acompanharem os Chamados  
 ![janelafuncionarios](midias/janelafuncionarios.png)
