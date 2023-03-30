@@ -41,7 +41,7 @@
 # Casos de Uso:
 
 ## Janela para Usuários Logarem e Enviarem os Chamados 
-![janelausuario](midias/janelausuario.png)
+![janelausuario](midias/janelausuario.png)  
 → O Usuário deverá se registrar  
 → Após se registar o Usuário deverá efetuar o login  
 → Já logado, o Usuário poderá prencher as informações do chamado  
