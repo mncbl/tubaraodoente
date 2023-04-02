@@ -44,7 +44,7 @@
 ![janelausuario](midias/janelausuario.png)  
 
 ### Ator:
-- Cliente
+- Usuário
 ### Casos de Uso:
 - Se Registrar
 - Fazer Login
