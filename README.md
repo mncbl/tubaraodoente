@@ -62,6 +62,34 @@
 ## Janela para Funcionários Acompanharem os Chamados  
 ![janelafuncionarios](midias/janelafuncionarios.png)
 
+### Ator:
+- Funcionários
+### Casos de Uso:
+- 
+- 
+- 
+- 
+### Fluxo de Eventos:
+1. 
+2. 
+3. 
+4. 
+### Exceções:
+- 
+- 
 ## Janela para Administradores Acompanharem Dashboard  
 ![janelaadm](midias/janelaadm.png)
+
+### Ator:
+- Administradores 
+### Casos de Uso:
+
+### Fluxo de Eventos:
+1. 
+2. 
+3. 
+4. 
+### Exceções:
+- 
+- 
 
