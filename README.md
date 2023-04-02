@@ -65,18 +65,19 @@
 ### Ator:
 - Funcionários
 ### Casos de Uso:
-- 
-- 
-- 
-- 
+- Fazer Login como funcionário
+- Acessar o menu de chamados
+- Verificar chamados em aberto
+- Checar nivel de urgência dos chamados
+- Resolver chamados
 ### Fluxo de Eventos:
-1. 
-2. 
-3. 
-4. 
+1. O Funcionário receberá as informações de login 
+2. O Funcionário irá realizar o login
+3. O Funcionário será redirecionado para a página de chamados
+4. O Funcionário terá acesso a todas as informações sobre os chamados
+5. O Funcionário poderá resolver os chamados
 ### Exceções:
-- 
-- 
+- Se o funcionário tentar resolver um chamado já expirado ou já resolvido, o sistema irá exibir uma mensagem de erro.
 ## Janela para Administradores Acompanharem Dashboard  
 ![janelaadm](midias/janelaadm.png)
 
