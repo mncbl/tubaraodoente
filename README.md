@@ -38,18 +38,58 @@
 - Como?: O sistema irá controlar a quantidade de chamados e os seus status (abertos, resolvidos, urgentes) e representar tais dados no Dashboard.
 - Quanto?: Esforço e dedicação do time.
 
-# Casos de Uso:
+# Rascunho do Site:
 
 ## Janela para Usuários Logarem e Enviarem os Chamados 
 ![janelausuario](midias/janelausuario.png)  
-→ O Usuário deverá se registrar  
-→ Após se registar o Usuário deverá efetuar o login  
-→ Já logado, o Usuário poderá prencher as informações do chamado  
-→ Após preencher o Usuário deverá clicar para enviar e o chamado será enviado  
+
+### Ator:
+- Usuário
+### Casos de Uso:
+- Se Registrar
+- Fazer Login
+- Preencher informações do chamado
+- Enviar chamado
+### Fluxo de Eventos:
+1. O Usuário irá se registrar.
+2. Após se registar o Usuário deverá efetuar o login.
+3. Já logado, o Usuário poderá prencher as informações do chamado.
+4. Após preencher o Usuário deverá clicar para enviar e o chamado será enviado.
+### Exceções:
+- Se o usuário tentar enviar o chamado sem preencher as informações obrigatórias, o sistema exibirá uma mensagem indicando os campos que faltam ser preenchidos.
+- Se o usuário tentar enviar o chamado sem estar logado, o sistema o redicionará para a página de login.
 
 ## Janela para Funcionários Acompanharem os Chamados  
 ![janelafuncionarios](midias/janelafuncionarios.png)
 
+### Ator:
+- Funcionários
+### Casos de Uso:
+- 
+- 
+- 
+- 
+### Fluxo de Eventos:
+1. 
+2. 
+3. 
+4. 
+### Exceções:
+- 
+- 
 ## Janela para Administradores Acompanharem Dashboard  
 ![janelaadm](midias/janelaadm.png)
+
+### Ator:
+- Administradores 
+### Casos de Uso:
+
+### Fluxo de Eventos:
+1. 
+2. 
+3. 
+4. 
+### Exceções:
+- 
+- 
 
