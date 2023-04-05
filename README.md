@@ -84,13 +84,10 @@
 ### Ator:
 - Administradores 
 ### Casos de Uso:
-
+- Fazer Login como Administrador
+- Acessar a Dashboard de Informações sobre os Chamados
 ### Fluxo de Eventos:
-1. 
-2. 
-3. 
-4. 
-### Exceções:
-- 
-- 
-
+1. O Administrador receberá as informações de login 
+2. O Administrador irá realizar o login
+3. O Administrador será redirecionado para a página do Dashboard
+4. O Administrador terá acesso a todas as informações presente no Dashboard
