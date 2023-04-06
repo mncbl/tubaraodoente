@@ -1,0 +1,34 @@
+Perguntas feitas:
+
+- Teria algum departamento específico pra ser feito ou mais voltado pros citados?
+- O que a empresa faz?
+- Vamos estar capturando os dados em tempo real para a manipulacao para maquinas que estejam funcionando mal
+- Cadastro de usuários?
+- Como serão os chamados?
+- Orçamento e prazo?
+- Necessidade de integração com outro sistema?
+- Ideia inicial sobre identidade visual?
+- Acessibilidade para deficientes visuais, daltonico?
+- Objetivo principal do sotfware e recursos principais
+- Disponibilizar Banco de Dados
+- Desenvolver App Mobile
+- Notificação da resolução do chamado
+- Preferencia sobre tecnologia usada
+- Automatizar processos
+- Como agir caso o sistema 
+- Expectativa de usuários simultaneos do site
+- Gostaria de ter alguma ferramenta de comunicação alem do chamado, como chat para perguntas simples?
+- 
+- Precisa de Dashboard executivo?
+- Criação de usuários cliente
+
+==========================================================
+
+Perguntas a serem feitas:
+
+- Limite de chamados por usuário
+- O que cada dashboard mostra pra cada usuario
+- O cliente tem acesso ao chamado apos ele ser resolvido
+- O cliente tem contato com alguem da equipe ou somente acesso aos chamados
+- Chamados em aberto podem ser atualizados pelo cliente
+- Chamados tem tipo ou sao apresentados por texto ?
