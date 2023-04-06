@@ -32,3 +32,5 @@ Perguntas a serem feitas:
 - O cliente tem contato com alguem da equipe ou somente acesso aos chamados
 - Chamados em aberto podem ser atualizados pelo cliente
 - Chamados tem tipo ou sao apresentados por texto ?
+- Quantidade de chamados por empresa
+- Quais informações devem ter no chamado
