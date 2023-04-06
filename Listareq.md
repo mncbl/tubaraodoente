@@ -29,3 +29,5 @@
 - perguntar como sera demonstrado que o chamado esta atradado.
 - oq sera nescessario para realizar um chamado.
 - como sera listado os chamados
+- quantidade de chamados por empresa
+- quais informações devem ter no chamado
