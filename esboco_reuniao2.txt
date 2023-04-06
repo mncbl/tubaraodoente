@@ -1,0 +1,66 @@
+- Mais de 7 pessoas no Software, se colocaria fila de espera (P)
+- Contexto de onde surgiu o numero?
+- Ideal é que todos funcionarios da empresa possam usar, colocar fila de espera pra utilizar nao seria produtivo para a empresa.
+
+- Saber quais metricas o dashboard apresentados deveria conter
+- Departamento especifico?
+- Diretoria
+- DICA: Perguntar no chatGPT. Perguntei pra ele desecreveer as principais info de um dashboard de de sistemas. Falou qu o desempenho da plat, deficit financeiri, analise de qtd, desempenho do mkt,problemas tecnicos e att importantes.
+  sugere utilizar o chatGPT.
+- Quais entradas gostariam de ter no sistema de chamados, inputs/infos de chamado
+- Geralmente chamados tem titulo, umresumo que o propior usuario escreve, descrcao do chamado, **usuário que abriuop chamado consegue colocaro apenas o titulo e descricao
+- Titulo, Descrição para poder colocar as infos.
+- Teria que ter provavelmente status(ativo,pendente,a), categoria MACRO do chamado, departamento que esta sendo enviado, quem é a pessoa responsável.
+
+- Quem abriria os chamados (P)
+- Qlqr pessoa que tenha que tenha, ERP onde as pessaos se comunicam via chamaado, se alguem do dpto comercial deu problema, vai acessar o ERP pelo cel ou comptd, o chamado vai ser e vai pro dashboard geral, ou pro dpto, geralment o usuario nao categoriza chamado
+  depois que o chamado for traatado vi para o dpto de TI, os proprios funcionarios da empresa abrem os chamados.
+
+- Clientes também terão conta ? (P)
+- Funcionarios teriam conta dentro do erp, cientes nao podem ter conta dentro do erp da empresa, pois é onde ficam as info sigiliosas de a empresa, o cliente pode simplesmente. Limitando o escopo somente a funcionarios, modulo de gerenciar clientes
+  sugerindo excluir do escopo a abertura de chamados pelo cliente justamente por ser uma arquitetura que nao eprendemos, entao deiar so o rud de clientes e deixar a abertura de chamados apensa pelos funcionarios da micromers.
+
+- Quais seriam os tipos de chamados em função de departamentos (P)
+- Colocou no documento. iComercial - ioperacao - iTI - RH(administrativo)
+
+- O que os funcionarios usariam pra acesso na empresa (P)
+- Esquema da banco de dados. Coloquei requisito, nome, email corporativo, senha como ocrigatorios -  DICA: existem mais colunas que se colocam como tabela de usuarios, nao sabe qu existe relacionamenteo eentre usuario e role. Existem 
+  colunas como email veriicado, remember token, coluna registro criado e att. 
+
+- Cadastro de novos usuários do sistema (P)
+- Apenas administradores podem cadastrar novos usuários. DICA: se preocupe somente c o formulario de cadastro de usuarios, a obrigacao de se preoucpár como vai ser feito  validacao é da equipe de bck-end, migration é justamente para nao gerar banco de dados vazio
+  pq um dos registros feitos pela migration é o primeiro usuario, dentro de um documento em back-end autogerado prar rodar, nao havera funcionalidade de auto-cadastro.
+
+- O sistema precisa funcoinar 24h (P)
+- Sistem web tem disponibildade de 24h, o ERP fica disponivel o dia todo, existem empresas que focam em restricao de horario de acesso, mas nao é o caso, nao precisa se preocupar com restrição de horario, para entredenet como funcoinar um projeto real.
+
+- O cliente tem contato com alguem da equipe ou somente pçleos chamados (P)
+- Depende do negocio da empresa, no caso da micromeros o cliente tem contato por zap, email, qlqr coisa, mas nao é um fator importante para o dseenvolvimento desse sistema.
+
+- Quanto tempo um chamado SLA pode ficar aberto (P)
+- Geralmente depende da categoria do chamado, pvaria de acordo com a regra de negocios da empresa, por exempolo chamado de ti uma entidade chamada atil, que gerencia as chamadas de TI, de incidente, de problemas em 30min, chamados agendados maximo de 48h.
+  Façam SLA razoaveis e testem se a funcoinalidade ta fiuncionando, a regra de negocios é spo um plano de fundo pra se localizarem
+- Existe ordem de urgencia (P)
+- Existe ordem de prioridade, depende da regra de negocios, geralmente e um display de fila de chamado, a gente que é desenvolvedor apenas se preovupa em deixar o etresigrto cadastrado no branco, cristico, alto medio baico. Geralmente IT da isso pra gente.
+  Podem deixar isso, na questao de categorizar nao precisa se preocupar.
+
+- Serão paginas diferentes de acordo com usuario (P)
+- Cada um vai ter sua tela confrome as suas permissoes, a parte de como o mecanismo vai funcionar, quando vc entrevista u usaro ele nao responde como vai funcionar, parte da criativdade do desenolverdor, das 8h fica 6 qebrando a cabeça e 2 codando
+-  (P)
+- Vai ter o tp de dashboard conforme a função
+
+- Utilizacao de permissoes, se refere ao cadastro que o dpto de tec vai crir pra cada funcionario, e para login? (P)
+- Email corporativo e senha.
+
+- Alguma visão sobre a aparencia dos dashboards (P)
+- Se vira kkkkkkkkkkk
+
+- Chamados podem ser tanto externos quanto pinternos, queria saber se o s chamados e tipos diferentes vao ter as mesmas indos (titulo, id, descricao e categoria) ou se vao ter funcionalidades diferentes (P)
+- Excluir a parte de chamados pelo cliente exerno pq vai dar mais trabalho, se preocupa apenas com o usuário interno, funcionario escopo, abertura de chamado por agleum fora do ERP esquece
+
+- Responsividade do site (P)
+- A maioria dos equipamentos são os mobile, então um site sofre para ter 1000 usuarios por mes, um app. Usar a filiosofia do mobilefirst, usar responsividade. Dimensionamento de tela, usar IDE, chrome da dimencionamento de telas.
+  Tem como simular o uso do site em um iPHone, por exemplo. Usar filosofia do mobilefirst. 
+
+-  (P)
+-
