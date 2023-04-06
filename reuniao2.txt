@@ -34,5 +34,6 @@ Perguntas a serem feitas:
 - Quantidade de chamados por empresa
 - Quais informações devem ter no chamado?
 - Serão páginas diferentes de acordo com o Usuário (cliente , funcionário e administrador) ?
+- Qual será o prazo para os chamados serem resolvidos?
 
 
