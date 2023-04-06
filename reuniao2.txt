@@ -18,7 +18,6 @@ Perguntas feitas:
 - Como agir caso o sistema 
 - Expectativa de usuários simultaneos do site
 - Gostaria de ter alguma ferramenta de comunicação alem do chamado, como chat para perguntas simples?
-- 
 - Precisa de Dashboard executivo?
 - Criação de usuários cliente
 
@@ -26,11 +25,14 @@ Perguntas feitas:
 
 Perguntas a serem feitas:
 
-- Limite de chamados por usuário
+- Existe um limite de chamados por usuário?
 - O que cada dashboard mostra pra cada usuario
-- O cliente tem acesso ao chamado apos ele ser resolvido
-- O cliente tem contato com alguem da equipe ou somente acesso aos chamados
-- Chamados em aberto podem ser atualizados pelo cliente
-- Chamados tem tipo ou sao apresentados por texto ?
+- O cliente tem acesso ao chamado apos ele ser resolvido?
+- O cliente tem contato com alguem da equipe ou somente acesso aos chamados?
+- Chamados em aberto podem ser atualizados pelo cliente?
+- Chamados tem tipo ou sao apresentados por texto?
 - Quantidade de chamados por empresa
-- Quais informações devem ter no chamado
+- Quais informações devem ter no chamado?
+- Serão páginas diferentes de acordo com o Usuário (cliente , funcionário e administrador) ?
+
+
