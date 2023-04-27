@@ -1,0 +1,72 @@
+Título: Login do usuário
+
+Descrição: Tela para usuário realizar a entrada no sistema
+
+Atores: Funcionários da empresa Micromeros
+
+Pré-Condição: Usuário estar cadastrado no sistema
+
+Pós-Condição: Sistema vai abrir a página principal após o login
+do usuário
+
+Fluxo Principal: Usuário(funcionário ou administrador) preenche
+a tela com os seus dados e é direcionado para a tela principal
+
+Fluxo Alternativo: Usuário terá acesso negado por preencher 
+algum campo errado ou por não estar cadastrado no sistema
+
+==============================================
+
+Título: Cadastro de usuário
+
+Descriçao: Apenas administrador pode cadastrar novos usuários
+
+Atores: Administradores do sistema
+
+Pré-Condição: Administrador estar registrado no banco de dados
+e ter a permissão para cadastrar novas pessoas
+
+Pós-Condição: Usuário será cadastrado no sistema e estará apto
+a realizar o seu login no sistema
+
+Fluxo Principal: Administrador preenche o formulário com os dados
+do funcionário para criar seu registro
+
+Fluxo Alternativo: Usuário não será cadastrado se algum input
+não estiver preenchido
+
+==============================================
+
+Título: Abertura de Chamado
+
+Descrição: Criação de chamado (interno ou externo) para ser resolvido
+
+Atores: Funcionários da empresa
+
+Pré-Condição: Funcionário estar logado na sua conta (somente assim
+poderá abrir chamado)
+
+Pós-Condição: Chamado será aberto e encaminhado para o departamento
+responsável
+
+Fluxo Principal: Usuário preenche os campos necessários e o chamado 
+será aberto, após isso será encaminhado para o departamento ou
+irá para o dashboard principal
+
+Fluxo Alternativo: Chamado não será aberto caso algum input não seja
+preenchido ou o sistema esteja fora do ar
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
