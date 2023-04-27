@@ -1,0 +1,49 @@
+Caso de uso - Visualização de chamados
+
+O sistema deve monitorar em tempo real a quantidade de chamados recebidos pela empresa.
+O sistema deve exibir os chamados abertos e sua situação atual.
+O sistema deve fazer a contagem dos chamados resolvidos.
+O sistema deve classificar os chamados de acordo com sua urgência ou prioridade.
+O sistema deve definir se os chamados estão abertos, resolvidos ou pendentes. ()
+
+==========================================
+
+Caso de uso - Login do usuário
+
+O usuário que entrar como administrador deve ver apenas a informação do seu setor.
+O usuário que entrar como administrador terá acesso ao dashboard principal.
+O usuário que entrar como parte do setor operacional terá acesso apenas ao chamados desse setor.
+O sistema deve ter recursos de login para os usuários inserirem nome e email corporativo.
+O sistema deve ter login para operacional, tecnologia, comercial, administrador.
+O sistema deve controlar o acesso do usuário. (não funcional)
+
+===========================================
+
+Caso de uso - Cadastro de usuários
+
+O sistema deve 
+
+===========================================
+
+Caso de uso - Abertura de chamado
+
+
+
+===========================================
+O sistema deverá ser capaz de operar em alta carga de chamados sem sair do ar. (não funcional)
+O sistema deve captar dados em tempo real para manipulação de máquinas que estejam com mal funcionamento. (?)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
