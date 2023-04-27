@@ -56,7 +56,22 @@ irá para o dashboard principal
 Fluxo Alternativo: Chamado não será aberto caso algum input não seja
 preenchido ou o sistema esteja fora do ar
 
+==============================================
 
+Título: Visualização de Chamados
+
+Descrição: Tela para mostrar todos os chamados (abertos, resolvidos, urgentes)
+
+Atores: Usuários e Administradores
+
+Pré-Condição: Estar em uma conta de usuário (do seu próprio departamento) ou administrador
+
+Pós-Condição: Chamados serão visualizados na tela
+
+Fluxo Principal: A tela mostrará em lista os chamados abertos (filtro padrão) e outros 2 possibilidades, resolvidos
+e urgentes, baseado no filtro escolhido para visualização
+
+Fluxo Alternativo: A tela aparecerá branca se não houver nenhum chamado aberto (filtro padrão)
 
 
 
