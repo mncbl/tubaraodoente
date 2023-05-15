@@ -93,4 +93,4 @@
 4. O Administrador terá acesso a todas as informações presente no Dashboard
 
 ## Diagrama de Componentes
-![diag](midias/Diagrama de Componentes .jpg)
+![diag](midias/DDC.jpg)
