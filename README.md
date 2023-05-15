@@ -91,3 +91,6 @@
 2. O Administrador irá realizar o login
 3. O Administrador será redirecionado para a página do Dashboard
 4. O Administrador terá acesso a todas as informações presente no Dashboard
+
+## Diagrama de Componentes
+![diag](midias/Diagrama de Componentes .jpg)
