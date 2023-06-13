@@ -3,7 +3,7 @@
 
 # [Link Códigos](https://github.com/gvfirmeza/react-tubaraodoente.git)
 
-# [Link da Apresentação](https://docs.google.com/presentation/d/1qOLT8aC6oTGKS39WKmboXl9iqYmYdjJyvIbx_SoNAJA/edit#slide=id.g251a2305cec_0_1)
+# [Link da Apresentação](https://docs.google.com/presentation/d/1qOLT8aC6oTGKS39WKmboXl9iqYmYdjJyvIbx_SoNAJA/edit#slide=id.g22d4cb2c4fb_0_4)
 
 ## Missão
 - Criação de um sistema para abertura e gerenciamento de chamados.
